@@ -1,9 +1,9 @@
-# data_processing
+# Data Processing
 
 1. Clone repository
 2. run make command
 3. run executable by running ./inmemoryDB
-4. comment out lines 10, 31, and 34 to test all functionality
+4. comment out lines 10, 31, and 34 in main.cpp to test all functionality
 5. repeat steps 2 and 3
 
 
